@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
-description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
+title:            "王庆港|计算机英语双学士|Java Web开发|微信小程序|FullStack"
+description:      "Full Stack独立开发者|欢迎来到 王庆港「角落」侃侃理想、谈谈人生、敲敲代码。"
 url:              https://wangqinggang.github.io/ # 域名
-signoff:          "LiberXue" # Your name
+signoff:          "王庆港" # Your name
 facebook_appid:   #liberxue
 google_analytics: UA-101222464-1
 share:            true 
