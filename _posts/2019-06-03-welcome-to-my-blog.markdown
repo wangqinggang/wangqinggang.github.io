@@ -7,6 +7,7 @@ img: welcome-to-my-blog.jpg
 fig-caption: fig-caption部分描述
 tags: [技术, 日志]
 ---
+This is my first blog。
 ### 文章写作位置：
 这篇帖子存在于 `_posts` 目录下. 本文件支持Markdown语法，可任意更新文档内容.
 
