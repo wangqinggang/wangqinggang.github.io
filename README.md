@@ -1,10 +1,10 @@
-# 这是由 Jekyll 主题
+# 博客样式
 
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
 ## Demo
-
-原作者该项目github地址 [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+本博客基于Jekyll搭建。
+原作者项目github地址 [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
 ## 特点
 
