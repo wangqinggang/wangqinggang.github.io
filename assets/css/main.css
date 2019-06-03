@@ -1485,7 +1485,6 @@ a.newer-posts:hover {
 #content_progress {
       /* Positioning */
       position: fixed;
-      z-index:10;
       left: 0;
       top: 0;
       z-index: 1000;
@@ -1496,7 +1495,7 @@ a.newer-posts:hover {
       appearance: none;
       border: none;
       background-color: transparent;
-      color: ##FFFF00;
+      color: #FFFF00;
 }
 
 #content_progress::-webkit-progress-bar {
