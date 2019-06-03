@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 王庆港 # add your name
 author-img: william.jpg # add your photo
-about-author: 计算机、英语双学士。<br/>职业：大数据技术. <br/>Always hungry to keep learning. # add description
+about-author: 计算机、英语双学士。 # add description
 social-twitter: wangqinggang1 # add your Twitter handle
 social-facebook: wangqinggang # add your Facebook handle
 social-github: wangqinggang # add your Github handle
