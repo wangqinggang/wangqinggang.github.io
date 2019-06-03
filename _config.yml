@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 
 #站点子路径
-baseurl: "/gang" # 站点子路径, 例如： /blog
+baseurl: "/wangqinggang.github.io" # 站点子路径, 例如： /blog
 
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
