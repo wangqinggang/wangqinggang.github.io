@@ -1,21 +1,23 @@
    <!-- Description 个人介绍相关内容 -->
-<div style="text-align: center;">
+    <div class="about">
+      <div class="cover-author-image">
+        <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
+      </div>
+      <div class="author-name">{{site.author}}</div>
+      <h2 style="text-align: center; margin-top: 0;font-size: 14px;font-weight: bold;">{{site.about-author}}</h2>
       <!-- Profile title -->
       <h2 style="text-align: center; margin-top: 0;font-size: 14px;font-weight: bold;">Web Designer &amp; Developer</h2>
       <!-- /Profile Title -->
       <!-- Description Text -->
       <hr style="border: none;height: 1px; width: 100%;background: url(assets/img/hr1.png) no-repeat center center;margin-top: 10px;margin-bottom: 10px; margin-bottom: 20px;">
+
       <div style="padding: 10px;padding-top: 10px;margin-bottom: 5px;">
-        <p>Founder of xxx. Professional BigData developer based on ShenZhen. Sometimes works as a freelancer.</p>
+        <p>Bachelor of CS and EN. Professional BigData developer based on ShenZhen. Sometimes works as a freelancer.</p>
       </div>
       <!--/ Description Text -->
-      <!-- Description feature -->
+      <!-- 联系方式 -->
       <div>
-        <!-- item -->
-        <div style="margin-bottom: 15px; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; padding: 10px;background: url(assets/img/bg-btn.png) no-repeat center center #08aeac;">
-          <p>Wechat: wqg599252594</p>
-        </div>
-        <!-- item -->
+          <h2>Wechat: wqg599252594</h2>
       </div>
-      <!-- /Description feature -->
+      <!-- /联系方式 -->
 </div>

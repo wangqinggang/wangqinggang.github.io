@@ -970,7 +970,7 @@ table tfoot td {
 }
 
 .about .author-name {
-  font-family: 'PT Serif', serif;
+  font-family: 'Microsoft Yahei', serif;
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
@@ -1510,25 +1510,3 @@ a.newer-posts:hover {
       background-color: #35a935;
 }
 
-/* 个人简介相关CSS*/
-
-
-.profile-subtitle {
-    
-}
-.hr1 {
-    
-}
-.vcard-profile-description-text {
-    padding: 10px;
-    padding-top: 10px;
-    margin-bottom: 5px;
-}
-.vcard-profile-description-ft-item {
-    margin-bottom: 15px;
-    border-radius: 5px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    padding: 10px;
-    background: url(../img/bg-btn.png) no-repeat center center #08aeac;
-}
