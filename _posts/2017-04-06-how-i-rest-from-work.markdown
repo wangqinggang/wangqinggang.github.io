@@ -2,12 +2,11 @@
 layout: post
 title: Post文件的配置
 date: 2017-09-12 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+description: 你会在 `_posts` 目录发现这篇文章. 此处增加博客表述 # Add post description (optional)
+img: i-rest.jpg # 此处为博客文章列表处和首页图片
 fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
-
 此处为文章摘要，方便读者了解文章大致内容
 
 
