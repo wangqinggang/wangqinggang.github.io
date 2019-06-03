@@ -49,23 +49,7 @@ layout: default
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
 <div class="content-box clearfix">
-<!-- 文章阅读进度条 -->
-<progress id="content_progress" value="0"></progress>
-<!-- 文章阅读进度条JS -->
-<script type="text/javascript">
-  document.addEventListener('DOMContentLoaded', function () {
-      var winHeight = window.innerHeight,
-            docHeight = document.documentElement.scrollHeight,
-            progressBar = document.querySelector('#content_progress');
-      progressBar.max = docHeight - winHeight;
-      progressBar.value = window.scrollY;
 
-      document.addEventListener('scroll', function () {
-            progressBar.max = document.documentElement.scrollHeight - window.innerHeight;
-            progressBar.value = window.scrollY;
-      });
-});
-</script>
 <!-- 文章顶部锚点 -->
 <a id="htmlup" name="htmlup"></a>
 
