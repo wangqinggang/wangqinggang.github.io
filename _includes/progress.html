@@ -1,0 +1,15 @@
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="/js/plugins/scrollgress.js"></script>
+
+<!-- 文章阅读进度条JS -->
+<script type="text/javascript">
+$(function() {
+	$('.article-page').scrollgress({
+		height: '10px',
+		color: '#990000',
+		success: function() {
+			console.log('Scrollgress has been initiated.');
+		}
+	});
+});
+</script>
