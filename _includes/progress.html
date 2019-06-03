@@ -6,12 +6,24 @@
 <!-- 文章阅读进度条JS -->
 <script type="text/javascript">
 $(function() {
-	$('.article-page').scrollgress({
+	$('.content-box').scrollgress({
 		height: '10px',
 		color: '#990000',
 		success: function() {
 			console.log('Scrollgress has been initiated.');
 		}
 	});
+});
+document.addEventListener('DOMContentLoaded', function () {
+      var winHeight = window.innerHeight,
+            docHeight = document.documentElement.scrollHeight,
+            progressBar = document.querySelector('#content_progress');
+      progressBar.max = docHeight - winHeight;
+      progressBar.value = window.scrollY;
+
+      document.addEventListener('scroll', function () {
+            progressBar.max = document.documentElement.scrollHeight - window.innerHeight;
+            progressBar.value = window.scrollY;
+      });
 });
 </script>
