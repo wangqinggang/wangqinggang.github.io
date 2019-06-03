@@ -4,7 +4,7 @@
 
 ## Demo
 本博客基于Jekyll搭建。
-原作者项目github地址 [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+原作者项目github地址 [Demo](https://github.com/artemsheludko/flexible-jekyll)
 
 ## 特点
 
