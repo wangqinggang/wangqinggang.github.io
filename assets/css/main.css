@@ -1485,6 +1485,7 @@ a.newer-posts:hover {
 #content_progress {
       /* Positioning */
       position: fixed;
+      z-index:10;
       left: 0;
       top: 0;
       z-index: 1000;
