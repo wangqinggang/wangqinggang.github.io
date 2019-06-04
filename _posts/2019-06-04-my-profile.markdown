@@ -9,16 +9,15 @@ tags: [简历]
 ---
 
 ## 个人信息
-
- - 王庆港/男/1997
- - 本科/山东科技大学/计算机/英语 
- - 工作年限：1年
- - 微博：[@William](https://wangqinggang.github.io/) （如果没有技术相关内容，也可以不放）
- - 技术博客：https://wangqinggang.github.io/ ( 使用GitHub Host的Big较高  )
- - Github：http://github.com/wangqinggang ( 有原创repo的Github帐号会极大的提升你的个人品牌  )
- - 期望职位：大数据开发工程师，大数据应用架构师
- - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
- - 期望城市：深圳
+- 王庆港/男/1997
+- 本科/山东科技大学/计算机/英语 
+- 工作年限：1年
+- 微博：[@William](https://wangqinggang.github.io/)
+- 技术博客：https://wangqinggang.github.io/
+- Github：http://github.com/wangqinggang
+- 期望职位：大数据开发工程师，大数据应用架构师
+- 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
+- 期望城市：深圳
 
 
 ## 工作经历
@@ -49,13 +48,6 @@ tags: [简历]
 
 #### 其他项目
 
-（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
-# 开源项目和作品
-（这一段用于放置工作以外的、可证明你的能力的材料）
-## 开源项目
-（对于程序员来讲，没有什么比Show me the code能有说服力了）
-  - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
-  - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
 
 ### 技术文章
 （挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
