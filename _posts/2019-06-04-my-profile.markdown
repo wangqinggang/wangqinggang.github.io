@@ -7,7 +7,6 @@ img: my-profile.png
 fig-caption: 个人简历
 tags: [简历]
 ---
-
 # 个人信息
 
  - 王庆港/男/1997
@@ -16,7 +15,6 @@ tags: [简历]
  - 微博：[@William](https://wangqinggang.github.io/) （如果没有技术相关内容，也可以不放）
  - 技术博客：https://wangqinggang.github.io/ ( 使用GitHub Host的Big较高  )
  - Github：http://github.com/wangqinggang ( 有原创repo的Github帐号会极大的提升你的个人品牌  )
-
  - 期望职位：大数据开发工程师，大数据应用架构师
  - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
  - 期望城市：深圳
@@ -69,8 +67,7 @@ tags: [简历]
 
   - 2014架构师大会演讲：[如何通过Docker优化内部开发](http://ftqq.com)
   - 9月公司内部分享：[云计算的前生今世](http://ftqq.com)
-    
-    
+
 # 技能清单
 （我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
 
@@ -84,8 +81,7 @@ tags: [简历]
 - 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
 - 单元测试：PHPUnit/SimpleTest/Qunit
 - 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
-      
----      
+
+---
 # 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
-      
+感谢您花时间阅读我的简历，期待能有机会和您共事。 
