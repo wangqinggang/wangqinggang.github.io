@@ -7,6 +7,7 @@ img: welcome-to-my-blog.jpg
 fig-caption: 个人简历
 tags: [简历]
 ---
+简介：这是我的个人简历。
 
 # 个人信息
 
