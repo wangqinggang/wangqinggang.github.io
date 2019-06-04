@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "个人介绍"
+title: "王庆港个人介绍"
 date: 2019-06-04 14:17:20 +0300
-description: 个人简历
-img: welcome-to-my-blog.jpg 
+description: 双学士学位 | 大数据开发工程师的个人简历。 
+img: 
 fig-caption: 个人简历
 tags: [简历]
 ---
-简介：这是我的个人简历。
 
 # 个人信息
 
