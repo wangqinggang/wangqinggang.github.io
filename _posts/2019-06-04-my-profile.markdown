@@ -7,6 +7,7 @@ img: my-profile.png
 fig-caption: 个人简历
 tags: [简历]
 ---
+
 ## 个人信息
 
  - 王庆港/男/1997
@@ -82,6 +83,6 @@ tags: [简历]
 - 单元测试：PHPUnit/SimpleTest/Qunit
 - 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
 
----
+
 ## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。 
