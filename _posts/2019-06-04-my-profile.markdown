@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "欢迎来到我的博客!"
+title: "个人介绍"
 date: 2019-06-04 14:17:20 +0300
 description: 个人简历
 img: welcome-to-my-blog.jpg 
