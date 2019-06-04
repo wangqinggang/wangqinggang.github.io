@@ -3,7 +3,7 @@ layout: post
 title: "王庆港个人介绍"
 date: 2019-06-04 14:17:20 +0300
 description: 双学士学位 | 大数据开发工程师的个人简历。 
-img: 
+img: my-profile.png
 fig-caption: 个人简历
 tags: [简历]
 ---
