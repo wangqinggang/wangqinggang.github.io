@@ -5,9 +5,9 @@ date: 2019-06-04 14:17:20 +0300
 description: 个人简历
 img: welcome-to-my-blog.jpg 
 fig-caption: 个人简历
-tags: [技术, 日志]
+tags: [简历]
 ---
-
+This is my profile.
 # 个人信息
 
  - 王庆港/男/1997
