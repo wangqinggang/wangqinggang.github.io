@@ -5,7 +5,7 @@ date: 2019-06-03 22:23:20 +0300
 description: 这是我开通博客后写的第一篇文章，主要介绍本博客模板写作内容
 img: welcome-to-my-blog.jpg 
 fig-caption: fig-caption部分描述
-tags: [技术, 日志]
+tags: [日志]
 ---
 This is my first blog。
 ### 文章写作位置：
