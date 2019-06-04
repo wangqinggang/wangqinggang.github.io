@@ -7,7 +7,7 @@ img: welcome-to-my-blog.jpg
 fig-caption: 个人简历
 tags: [简历]
 ---
-This is my profile.
+
 # 个人信息
 
  - 王庆港/男/1997
