@@ -1513,16 +1513,16 @@ a.newer-posts:hover {
 /* about me CSS样式*/
 
 
-a:link{
+.Pagelinks h2 a:link{
   color: black;
   text-decoration: none;
   cursor: pointer;
   transition: .2s;
 } 
-a:visited{ /*浏览过的*/
+.Pagelinks h2 a:visited{ /*浏览过的*/
   color:darkgrey;
 }
-a:active{  /*激活过的*/
+.Pagelinks h2 a:active{  /*激活过的*/
   color:darkgrey;
 }
 
